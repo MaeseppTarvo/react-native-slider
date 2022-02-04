@@ -1,19 +1,21 @@
 {
-  "name": "react-native-slider",
-  "version": "0.11.0",
-  "description": "A pure JavaScript <Slider /> component for react-native",
+  "name": "react-native-slider-v2",
+  "version": "0.11.1",
+  "description": "Fork of jeanregisser's library. Since his repo is unmaintained, I had to fork it to be able to use custom component inside slider thumb. Otherwise it is a pure JavaScript <Slider /> component for react-native",
   "main": "lib/Slider.js",
   "files": [
     "lib",
     "src"
   ],
-  "author": "Jean Regisser <jean.regisser@gmail.com> (https://github.com/jeanregisser)",
+  "author": "Tarvo Mäesepp <tarvomaesepp@gmail.com> (https://github.com/maesepptarvo)",
   "keywords": [
-    "react-component",
     "react-native",
+    "react-component",
+    "react-native-component",
     "ios",
     "android",
-    "slider"
+    "slider",
+    "thumb-slider"
   ],
   "license": "MIT",
   "scripts": {
